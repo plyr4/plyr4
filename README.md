@@ -1,5 +1,5 @@
 ### welcome to the lair
-[![banner for plyr4](https://github.com/plyr4/plyr4/raw/main/dave_banner.svg)](https://github.com/plyr/plyr4)
+[![banner for plyr4](https://github.com/plyr4/plyr4/raw/main/banner.svg)](https://github.com/plyr/plyr4)
 
 ![total visitors to my stuff](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
