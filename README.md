@@ -6,6 +6,8 @@
 
 A little about me: my name is Dave, I'm a programmer, engineer, and aspiring game designer. I studied computer science at the [University of Michigan](https://cse.engin.umich.edu/) in Ann Arbor and I'm currently working as a senior software engineer at [Target Co.](https://corporate.target.com/careers), primarily designing and maintaining corporate CICD systems like [Vela](https://go-vela.github.io/docs/), [Drone](https://www.drone.io/enterprise/opensource/) and [Jenkins](https://www.jenkins.io/).
 
+![jenkins](https://user-images.githubusercontent.com/48764154/149208442-1afd4e0a-29ab-49ff-a699-9da487ad2046.png)
+
 I'm also a big fan of role playing games and I enjoy making soups in my free time. 🥣⚔️
 
 Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev/), [D3](https://d3js.org/) rendering and [Unity](https://unity.com/).
@@ -23,6 +25,7 @@ I also enjoy working with [Go](https://go.dev/), lately contributing mostly to t
 <br/>
 
 ### Skelly
+
 
 [Skelly](https://github.com/plyr4/skelly) is a simple Slack chatbot that is designed to respond to user typing events. It is written in [Go](https://go.dev/) and utilizes the slack-go library for most of the Slack integrations. It also supports [MongoDB](https://www.mongodb.com/) as a backend for storing data.
 
