@@ -14,11 +14,9 @@ I'm also a big fan of role playing games and I enjoy making soups in my free tim
 Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev/), [D3](https://d3js.org/) rendering and [Unity](https://unity.com/).
 
 Here are some GitHub projects I've worked on, feel free to check them out!
-
 ### Vela 
 <img width="64" align="right" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4">
 <br/>
-
 I've done a lot of work on Target Co's official pipeline automation framework, [Vela](https://github.com/go-vela).
 Most of my contributions go towards building and improving the [user interface](https://github.com/go-vela/ui), written in [Elm](https://elm-lang.org/).
 
@@ -26,9 +24,6 @@ I also enjoy working with [Go](https://go.dev/), lately contributing mostly to t
 <br/>
 
 ### Skelly
-
-
 [Skelly](https://github.com/plyr4/skelly) is a simple Slack chatbot that is designed to respond to user typing events. It is written in [Go](https://go.dev/) and utilizes the slack-go library for most of the Slack integrations. It also supports [MongoDB](https://www.mongodb.com/) as a backend for storing data.
-
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plyr4&theme=gruvbox&hide=stars&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
