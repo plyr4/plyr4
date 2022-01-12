@@ -15,7 +15,7 @@ Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev
 
 Here are some GitHub projects I've worked on, feel free to check them out!
 ### Vela 
-<img width="64" align="right" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4">
+<img width="64" align="right" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4"/>
 I've done a lot of work on Target Co's official pipeline automation framework, [Vela](https://github.com/go-vela).
 Most of my contributions go towards building and improving the [user interface](https://github.com/go-vela/ui), written in [Elm](https://elm-lang.org/).
 
