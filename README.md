@@ -10,7 +10,7 @@ some GitHub projects I've worked on:
 
 ### Vela 
 
-<img width="280px" align="right" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4">
+<img width="128px" align="left" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4">
 
 I've done a lot of work on Target Co's official pipeline automation framework, [Vela](https://github.com/go-vela).
 Most of my contributions go towards building and improving the [user interface](https://github.com/go-vela/ui), written in [Elm](https://elm-lang.org/). 
