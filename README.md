@@ -24,4 +24,6 @@ I also enjoy working with [Go](https://go.dev/), lately contributing mostly to t
 ### Skelly
 [Skelly](https://github.com/plyr4/skelly) is a simple Slack chatbot that is designed to respond to user typing events. It is written in [Go](https://go.dev/) and utilizes the slack-go library for most of the Slack integrations. It also supports [MongoDB](https://www.mongodb.com/) as a backend for storing data.
 
+
+#### stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=plyr4&theme=gruvbox&hide=stars&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
