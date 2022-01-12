@@ -1,5 +1,6 @@
-### welcome to the lair
 [![banner for plyr4](https://github.com/plyr4/plyr4/raw/main/banner.svg)](https://github.com/plyr/plyr4)
+
+### welcome to the lair
 
 ![total visitors to my stuff](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
