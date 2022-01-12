@@ -1,7 +1,4 @@
-[![banner for plyr4](https://github.com/plyr4/plyr4/raw/main/banner.svg)](https://github.com/plyr4/plyr4)
-
-
-[banner](https://user-images.githubusercontent.com/48764154/149203330-48305dd0-c778-4458-af04-2d3454f544fc.mp4)
+![banner](https://user-images.githubusercontent.com/48764154/149203967-71c159ff-813e-43e2-a5db-d551ea649fb2.gif)
 
 
 ### welcome to the lair
