@@ -20,7 +20,6 @@ I've done a lot of work on Target Co's official pipeline automation framework, [
 Most of my contributions go towards building and improving the [user interface](https://github.com/go-vela/ui), written in [Elm](https://elm-lang.org/).
 
 I also enjoy working with [Go](https://go.dev/), lately contributing mostly to the Vela [server](https://github.com/go-vela/server/graphs/contributors) and the [worker](https://github.com/go-vela/worker/graphs/contributors).  
-<br/>
 
 ### Skelly
 [Skelly](https://github.com/plyr4/skelly) is a simple Slack chatbot that is designed to respond to user typing events. It is written in [Go](https://go.dev/) and utilizes the slack-go library for most of the Slack integrations. It also supports [MongoDB](https://www.mongodb.com/) as a backend for storing data.
