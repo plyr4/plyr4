@@ -2,7 +2,15 @@
 
 ![total visitors to my stuff](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=plyr4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+thanks for stopping by.
+
+a little about me: my name is Dave,  
+
+some projects I've worked on:
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=plyr4&theme=gruvbox?show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **plyr4/plyr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
