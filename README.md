@@ -2,8 +2,6 @@
 
 ### welcome
 
-![total visitors to my stuff](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
-
 A little about me: my name is Dave, I'm a programmer, engineer, and aspiring game designer. I studied computer science at the [University of Michigan](https://cse.engin.umich.edu/) in Ann Arbor and I'm currently working as a senior software engineer at [Target Co.](https://corporate.target.com/careers), primarily designing and maintaining corporate CICD systems like [Vela](https://go-vela.github.io/docs/), [Drone](https://www.drone.io/enterprise/opensource/) and [Jenkins](https://www.jenkins.io/). I also have fun creating chat-ops solutions like bots that interact with the [Slack API](https://api.slack.com/).
 <br/>
 
