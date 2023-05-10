@@ -9,7 +9,7 @@ My name is Dave. I'm a programmer, engineer, and aspiring game designer. I studi
 
 I'm also a big fan of role playing games and I enjoy making soups in my free time. 🥣⚔️
 
-Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev/), [3D shader](https://en.wikipedia.org/wiki/Shader) rendering and [Unity](https://unity.com/).
+Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev/), [3D shaders](https://en.wikipedia.org/wiki/Shader) and [Unity](https://unity.com/).
 
 Here are some GitHub projects I've worked on, feel free to check them out!
 ### Vela 
