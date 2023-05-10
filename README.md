@@ -2,14 +2,14 @@
 
 ### welcome
 
-My name is Dave. I'm a programmer, engineer, and aspiring game designer. I studied computer science at the [University of Michigan](https://cse.engin.umich.edu/) in Ann Arbor and I'm currently working as a senior software engineer at [Target Co.](https://corporate.target.com/careers), primarily designing and maintaining corporate CICD systems like [Vela](https://go-vela.github.io/docs/), [Drone](https://www.drone.io/enterprise/opensource/) and [Jenkins](https://www.jenkins.io/). I also have fun creating chat-ops solutions like [Slack](https://api.slack.com/) bots. Lately I've been into [Go](https://go.dev/), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and [Unity](https://unity.com/).
+My name is Dave. I'm a programmer, engineer, and aspiring game designer. I studied computer science at the [University of Michigan](https://cse.engin.umich.edu/) in Ann Arbor and I'm currently working as a senior software engineer at [Target Co.](https://corporate.target.com/careers), primarily designing and maintaining corporate CICD systems like [Vela](https://go-vela.github.io/docs/), [Drone](https://www.drone.io/enterprise/opensource/) and [Jenkins](https://www.jenkins.io/). I also have fun creating chat-ops solutions like [Slack](https://api.slack.com/) bots.
 <br/>
 
 <img style="margin-right: 5px;" height="64" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4"/>   <img style="margin-right: 5px;" height="64" src="https://cdn.freebiesupply.com/logos/large/2x/elm-logo-png-transparent.png"/>   <img style="margin-right: 5px;" height="64" src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png"/>   <img style="margin-right: 5px;" height="64" src="https://www.pngkey.com/png/full/984-9844126_slack-new-slack-logo-png.png"/>   <img style="margin-right: 5px;" height="64" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"/>   <img height="64" style="margin-right: 5px;" src="https://seeklogo.com/images/D/drone-logo-9D3EF64845-seeklogo.com.png"/>
 
 I'm also a big fan of role playing games and I enjoy making soups in my free time. 🥣⚔️
 
-Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev/), [3D shaders](https://en.wikipedia.org/wiki/Shader) and [Unity](https://unity.com/).
+Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev/), [3D shaders](https://en.wikipedia.org/wiki/Shader), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and [Unity](https://unity.com/).
 
 Here are some GitHub projects I've worked on, feel free to check them out!
 ### Vela 
