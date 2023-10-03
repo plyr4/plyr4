@@ -25,4 +25,4 @@ I also enjoy working with [Go](https://go.dev/), lately contributing mostly to t
 
 
 #### stats
-[![plyr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyr4)](https://github.com/anuraghazra/github-readme-stats)
+[![plyr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyr4&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
