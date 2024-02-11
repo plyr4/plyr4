@@ -15,9 +15,12 @@ Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg"/></a>
+<a href="https://webassembly.org/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wasm/wasm-original.svg"/></a>
 <a href="https://elm-lang.org/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/elm/elm-original.svg"/></a>
 <a href="https://www.npmjs.com/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/npm/npm-original-wordmark.svg"/></a>
+<a href="https://react.dev/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"/></a>
 <a href="https://graphviz.org/" target="_blank"><img height="32" src="https://upload.wikimedia.org/wikipedia/en/4/48/GraphvizLogo.png"/>
+
 <a href="https://unity.com/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg"/></a>
 <a href="https://www.blender.org/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg"/></a>
 <a href="https://www.libsdl.org/" target="_blank"><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sdl/sdl-original.svg"/></a>
@@ -46,12 +49,19 @@ Here are some GitHub projects I've worked on, feel free to check them out:
 I'm a full stack contributor to Target Co's official pipeline automation framework, [Vela](https://github.com/go-vela).
 I played a key role in building the [user interface](https://github.com/go-vela/ui), written in [Elm](https://elm-lang.org/), but I also enjoy contributing to the Vela [server](https://github.com/go-vela/server/graphs/contributors) and the [worker](https://github.com/go-vela/worker/graphs/contributors).
 
+Something cool that I built recently is the Vela pipeline visualizer, which is a full stack feature that aggregates build resources in the server, converts them to a directed acyclical DOT diagram, which is then rendered in the UI using a combination of [Typescript](https://github.com/go-vela/ui/blob/main/src/static/graph.ts), [Elm](https://github.com/go-vela/ui/blob/main/src/elm/Pages/Build/Graph/View.elm) and a [Graphviz library](https://github.com/hpcc-systems/hpcc-js-wasm) that is precompiled to [WASM](https://webassembly.org/).
+
+![visualizer](https://github.com/plyr4/plyr4/blob/main/visualize.gif?raw=true)
+
+The visualizer has made it much easier to build, trace, and debug complex pipelines that utilize things like independent or parallel execution.
 
 ### Skelly
 [Skelly](https://github.com/plyr4/skelly) is a simple Slack chatbot that is designed to respond to user typing events. It is written in [Go](https://go.dev/) and utilizes the slack-go library for most of the Slack integrations. It also supports [MongoDB](https://www.mongodb.com/) as a backend for storing data.
 
 ### Neebo
-[Neebo](https://plyr4.github.io/unity-ufo/) is a work-in-progress video game prototype built using Unity where the player must help a young, stranded martian named Neebo repair his prized flying saucer and escape this bizarre planet called Earth. Use Neebo's shrink ray to collect any other-worldly goodies you encounter while exploring strange and exciting new places on Earth.
+[Neebo](https://plyr4.github.io/unity-ufo/) is a work-in-progress video game prototype built using [Unity](https://unity.com/) where the player must help a young, stranded martian named Neebo repair his prized flying saucer and escape this bizarre planet called Earth. Use Neebo's shrink ray to collect any other-worldly goodies you encounter while exploring strange and exciting new places on Earth.
 
 Feel free to check out the WebGL demo for [Neebo](https://plyr4.github.io/unity-ufo/). Though for the best experience you should try the Windows or Linux desktop versions using a gamepad! You can find the download links embedded in the web demo.
+
+<img height="256" src="https://github.com/plyr4/plyr4/blob/main/neebo.gif?raw=true"/>
 
