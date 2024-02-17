@@ -46,22 +46,27 @@ Here are some GitHub projects I've worked on, feel free to check them out:
 ### Vela 
 <img width="48" align="right" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4"/>
 
-I'm a full stack contributor to Target Co's official pipeline automation framework, [Vela](https://github.com/go-vela).
-I played a key role in building the [user interface](https://github.com/go-vela/ui), written in [Elm](https://elm-lang.org/), but I also enjoy contributing to the Vela [server](https://github.com/go-vela/server/graphs/contributors) and the [worker](https://github.com/go-vela/worker/graphs/contributors).
+I'm a full stack contributor to Target Co's official pipeline automation framework, [Vela](https://go-vela.github.io/docs/installation/) including the [user interface](https://github.com/go-vela/ui), the [server](https://github.com/go-vela/server), the [cli](https://github.com/go-vela/cli), the [sdk](https://github.com/go-vela/sdk-go) and the [worker](https://github.com/go-vela/worker).
 
-Something cool that I built recently is the Vela pipeline visualizer, which is a full stack feature that aggregates build resources in the server, converts them to a directed acyclical DOT diagram, which is then rendered in the UI using a combination of [Typescript](https://github.com/go-vela/ui/blob/main/src/static/graph.ts), [Elm](https://github.com/go-vela/ui/blob/main/src/elm/Pages/Build/Graph/View.elm) and a [Graphviz library](https://github.com/hpcc-systems/hpcc-js-wasm) that is precompiled to [WASM](https://webassembly.org/).
+Something cool I built recently is the Vela pipeline visualizer, which is a full stack feature that aggregates build resources in the server, converts them to a directed acyclical DOT diagram, which is then rendered in the UI using a combination of [Typescript](https://github.com/go-vela/ui/blob/main/src/static/graph.ts), [Elm](https://github.com/go-vela/ui/blob/main/src/elm/Pages/Build/Graph/View.elm) and a [Graphviz library](https://github.com/hpcc-systems/hpcc-js-wasm) that is precompiled to [WASM](https://webassembly.org/).
 
 ![visualizer](https://github.com/plyr4/plyr4/blob/main/visualize.gif?raw=true)
 
-The visualizer has made it much easier to build, trace, and debug complex pipelines that utilize things like independent or parallel execution.
+The visualizer makes it easier to build, trace, and debug complex pipelines that utilize complex logic like independent/parallel execution.
 
 ### Skelly
 [Skelly](https://github.com/plyr4/skelly) is a simple Slack chatbot that is designed to respond to user typing events. It is written in [Go](https://go.dev/) and utilizes the slack-go library for most of the Slack integrations. It also supports [MongoDB](https://www.mongodb.com/) as a backend for storing data.
 
+### Unity Factory
+[Unity Factory](https://github.com/plyr4/unity-factory) is a project containing reusable GitHub Actions workflows that will build multi-architecture Unity projects and deploy them to GitHub Pages through CI. It is mostly just a centralized workflow for building and sharing demos using GitHub tooling. 
+
+It's a work in progress, and still has some opinionated deployment patterns that are based on my more recent Unity projects. As time passes I will continue to generalize it and implement more features like console support, store (Steam) publishing, etc.
+
 ### Neebo
 [Neebo](https://plyr4.github.io/unity-ufo/) is a work-in-progress video game prototype built using [Unity](https://unity.com/) where the player must help a young, stranded martian named Neebo repair his prized flying saucer and escape this bizarre planet called Earth. Use Neebo's shrink ray to collect any other-worldly goodies you encounter while exploring strange and exciting new places on Earth.
 
-Feel free to check out the WebGL demo for [Neebo](https://plyr4.github.io/unity-ufo/). Though for the best experience you should try the Windows or Linux desktop versions using a gamepad! You can find the download links embedded in the web demo.
+Feel free to check out the [web demo](https://plyr4.github.io/unity-ufo/). Though for the best experience you should try the Windows or Linux desktop versions using a gamepad! You can find the download links embedded in the web demo.
+Unfortunately, due to hardware acceleration limitations and render texture formatting woes, the web demo will currently only run on FireFox with hardware acceleration enabled. The game will eventually be released on PC and consoles. 
 
 <img height="256" src="https://github.com/plyr4/plyr4/blob/main/neebo.gif?raw=true"/>
 
