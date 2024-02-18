@@ -52,7 +52,7 @@ Something cool I contributed recently is the pipeline visualizer:
 
 <img height="384" src="https://github.com/plyr4/plyr4/blob/main/visualize.gif?raw=true"/>
 
-The visualizer makes it easier to build, trace, and debug complex pipelines that utilize complex logic like independent/parallel execution. It mostly uses a [Graphviz lib](https://github.com/hpcc-systems/hpcc-js-wasm), [D3](https://d3js.org/), and some aggregation logic in the server.
+The visualizer makes it easier to build, trace, and debug complex pipelines that utilize complex logic like independent/parallel execution. It uses a [Graphviz lib](https://github.com/hpcc-systems/hpcc-js-wasm), [D3](https://d3js.org/) and some aggregation logic in the server.
 
 ### Skelly
 [Skelly](https://github.com/plyr4/skelly) is a simple Slack chatbot that is designed to respond to user typing events. It is written in [Go](https://go.dev/) and utilizes the slack-go library for most of the Slack integrations. It also supports [MongoDB](https://www.mongodb.com/) as a backend for storing data.
