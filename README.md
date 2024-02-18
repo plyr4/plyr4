@@ -39,8 +39,6 @@ Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev
 
 I'm also a big fan of role playing games and I enjoy making soups in my free time. 🥣⚔️
 
-[![plyr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyr4&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 Here are some GitHub projects I've worked on, feel free to check them out:
 
 ### Vela 
@@ -64,4 +62,6 @@ Feel free to check out the [web demo](https://plyr4.github.io/unity-ufo/). Thoug
 Unfortunately, due to hardware acceleration limitations and render texture formatting woes, the web demo will currently only run on FireFox with hardware acceleration enabled for now. The game will eventually be released on PC and consoles.
 
 <img height="256" src="https://github.com/plyr4/plyr4/blob/main/neebo.gif?raw=true"/>
+
+[![plyr4's GitHub stats](https://github-readme-stats.vercel.app/api?username=plyr4&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
