@@ -54,17 +54,14 @@ Something cool I contributed recently is the pipeline visualizer:
 
 The visualizer makes it easier to build, trace, and debug complex pipelines that utilize complex logic like independent/parallel execution. It uses a [Graphviz lib](https://github.com/hpcc-systems/hpcc-js-wasm), [D3](https://d3js.org/) and some aggregation logic in the server.
 
-### Skelly
-[Skelly](https://github.com/plyr4/skelly) is a simple Slack chatbot that is designed to respond to user typing events. It is written in [Go](https://go.dev/) and utilizes the slack-go library for most of the Slack integrations. It also supports [MongoDB](https://www.mongodb.com/) as a backend for storing data.
-
 ### Unity Build Factory
-[Unity Build Factory](https://github.com/plyr4/unity-factory) is a hobby project that will build multi-architecture Unity projects and deploy them to GitHub Pages through GitHub Actions workflow dispatches. It's a work in progress.
+[Unity Build Factory](https://github.com/plyr4/unity-factory) is a hobby project that builds multi-architecture Unity projects and deploys them to GitHub Pages through GitHub Actions workflow dispatches. It's a work in progress.
 
 ### Neebo
-[Neebo](https://plyr4.github.io/unity-ufo/) is a work-in-progress video game prototype built using [Unity](https://unity.com/) where the player must help a young, stranded martian named Neebo repair his prized flying saucer and escape this bizarre planet called Earth. Use Neebo's shrink ray to collect any other-worldly goodies you encounter while exploring strange and exciting new places on Earth.
+[Neebo](https://plyr4.github.io/unity-ufo/) is a work-in-progress 3D puzzle adventure game prototype built using [Unity](https://unity.com/) where the player helps a young, stranded martian named Neebo repair his prized flying saucer and escape this bizarre planet called Earth. Use Neebo's shrink ray to collect any other-worldly goodies you encounter while exploring strange and exciting new places on Earth.
 
-Feel free to check out the [web demo](https://plyr4.github.io/unity-ufo/). Though for the best experience you should try the Windows or Linux desktop versions using a gamepad! You can find the download links embedded in the web demo.
-Unfortunately, due to hardware acceleration limitations and render texture formatting woes, the web demo will currently only run on FireFox with hardware acceleration enabled. The game will eventually be released on PC and consoles. 
+Feel free to check out the [web demo](https://plyr4.github.io/unity-ufo/). Though for the best experience you should try the Windows or Linux desktop versions using a gamepad! You can find the download links embedded in the web demo page.
+Unfortunately, due to hardware acceleration limitations and render texture formatting woes, the web demo will currently only run on FireFox with hardware acceleration enabled for now. The game will eventually be released on PC and consoles.
 
 <img height="256" src="https://github.com/plyr4/plyr4/blob/main/neebo.gif?raw=true"/>
 
