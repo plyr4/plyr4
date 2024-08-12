@@ -37,18 +37,16 @@ Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev
 
 <br/>
 
-Here are some GitHub projects I've worked on, feel free to check them out:
-
 ### Vela 
 <img width="48" align="right" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4"/>
 
-[Vela](https://github.com/go-vela), Target Co's official pipeline automation framework.
+[Vela](https://github.com/go-vela) - Target Co's official pipeline automation framework.
 
 ### Unity Build Factory
-[Unity Build Factory](https://github.com/plyr4/unity-factory), a hobby project that builds multi-architecture Unity projects and deploys them to GitHub Pages through GitHub Actions workflow dispatches. It builds my games, but it's a work in progress.
+[Unity Build Factory](https://github.com/plyr4/unity-factory) - a hobby project that builds multi-architecture Unity projects and deploys them to GitHub Pages through GitHub Actions workflow dispatches. It builds my games, but it's a work in progress.
 
 ### Neebo
-[Neebo](https://plyr4.github.io/unity-ufo/) is a work-in-progress 3D puzzle adventure game prototype built using [Unity](https://unity.com/) where the player helps a young, stranded martian named Neebo repair his prized flying saucer and escape this bizarre planet called Earth. Use Neebo's shrink ray to collect any other-worldly goodies you encounter while exploring strange and exciting new places on Earth.
+[Neebo](https://plyr4.github.io/unity-ufo/) - a work-in-progress 3D puzzle adventure game prototype built using [Unity](https://unity.com/) where the player helps a young, stranded martian named Neebo repair his prized flying saucer and escape this bizarre planet called Earth. Use Neebo's shrink ray to collect any other-worldly goodies you encounter while exploring strange and exciting new places on Earth.
 
 <img height="256" src="https://github.com/plyr4/plyr4/blob/main/neebo.gif?raw=true"/>
 
