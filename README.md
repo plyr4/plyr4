@@ -1,10 +1,10 @@
 ![banner](https://user-images.githubusercontent.com/48764154/149204225-1ece29b6-0833-42bb-a857-d6f1f1fdf872.gif)
 
 
-My name is Dave. I'm a programmer, engineer, and aspiring game designer. I studied computer science at the [University of Michigan](https://cse.engin.umich.edu/) in Ann Arbor and I'm currently working as a senior software engineer at [Target Co.](https://corporate.target.com/careers), primarily designing and maintaining corporate CICD systems like [Vela](https://go-vela.github.io/docs/), [Drone](https://www.drone.io/enterprise/opensource/) and [Jenkins](https://www.jenkins.io/). I also have fun creating chat-ops solutions like [Slack](https://api.slack.com/) bots.
+My name is Dave. I'm a programmer, engineer, and aspiring game designer. I studied computer science at the [University of Michigan](https://cse.engin.umich.edu/) and I work at [Target Co.](https://corporate.target.com/careers), primarily designing and maintaining corporate CICD systems like [Vela](https://go-vela.github.io/docs/), [Drone](https://www.drone.io/enterprise/opensource/) and [Jenkins](https://www.jenkins.io/).
 <br/>
 
-Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev/), [3d graphics](https://paroj.github.io/gltut/) and [shaders](https://en.wikipedia.org/wiki/Shader), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and [Unity](https://unity.com/). I have a passion for using code to create things that excite people, like video games and cool shaders.
+Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev/), [3d graphics](https://paroj.github.io/gltut/) and [shaders](https://en.wikipedia.org/wiki/Shader), [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) and [Unity](https://unity.com/). I have a passion for using code to create things that excite people, like video games and cool shaders. I also have fun creating usable chat-ops solutions like [Slack](https://api.slack.com/) bots.
 
 <h4>Other tech you should ask me about:</h3>
 <a href="https://go.dev/" target="_blank"><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg"/></a>
@@ -37,29 +37,18 @@ Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev
 
 <br/>
 
-I'm also a big fan of role playing games and I enjoy making soups in my free time. 🥣⚔️
-
 Here are some GitHub projects I've worked on, feel free to check them out:
 
 ### Vela 
 <img width="48" align="right" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4"/>
 
-I'm a full stack contributor to Target Co's official pipeline automation framework, [Vela](https://go-vela.github.io/docs/installation/) including the [user interface](https://github.com/go-vela/ui), the [server](https://github.com/go-vela/server), the [cli](https://github.com/go-vela/cli), the [sdk](https://github.com/go-vela/sdk-go) and the [worker](https://github.com/go-vela/worker).
-
-Something cool I contributed recently is the pipeline visualizer:
-
-<img width="720" src="https://github.com/plyr4/plyr4/blob/main/visualize.gif?raw=true"/>
-
-The visualizer makes it easier to build, trace, and debug complex pipelines that utilize complex logic like independent/parallel execution. It uses a [Graphviz lib](https://github.com/hpcc-systems/hpcc-js-wasm), [D3](https://d3js.org/) and some aggregation logic in the server.
+[Vela](https://github.com/go-vela), Target Co's official pipeline automation framework.
 
 ### Unity Build Factory
-[Unity Build Factory](https://github.com/plyr4/unity-factory) is a hobby project that builds multi-architecture Unity projects and deploys them to GitHub Pages through GitHub Actions workflow dispatches. It's a work in progress.
+[Unity Build Factory](https://github.com/plyr4/unity-factory), a hobby project that builds multi-architecture Unity projects and deploys them to GitHub Pages through GitHub Actions workflow dispatches. It builds my games, but it's a work in progress.
 
 ### Neebo
 [Neebo](https://plyr4.github.io/unity-ufo/) is a work-in-progress 3D puzzle adventure game prototype built using [Unity](https://unity.com/) where the player helps a young, stranded martian named Neebo repair his prized flying saucer and escape this bizarre planet called Earth. Use Neebo's shrink ray to collect any other-worldly goodies you encounter while exploring strange and exciting new places on Earth.
-
-Feel free to check out the [web demo](https://plyr4.github.io/unity-ufo/). Though for the best experience you should try the Windows or Linux desktop versions using a gamepad! You can find the download links embedded in the web demo page.
-Unfortunately, due to hardware acceleration limitations and render texture formatting woes, the web demo will currently only run on FireFox with hardware acceleration enabled for now. The game will eventually be released on PC and consoles.
 
 <img height="256" src="https://github.com/plyr4/plyr4/blob/main/neebo.gif?raw=true"/>
 
