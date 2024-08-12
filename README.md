@@ -34,13 +34,13 @@ Lately I've been interested in [Elm](https://elm-lang.org/), [Go](https://go.dev
 <a href="https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions" target="_blank"><img height="24" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"/></a>
 <a href="https://www.drone.io/" target="_blank"><img height="24" src="https://seeklogo.com/images/D/drone-logo-9D3EF64845-seeklogo.com.png"/></a>
 <a href="https://www.jenkins.io/" target="_blank"><img height="24" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jenkins/jenkins-original.svg"/></a>
-
 <br/>
 
-### Vela 
-<img width="48" align="right" src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4"/>
+### Vela
 
-[Vela](https://github.com/go-vela) - Target Co's official pipeline automation framework.
+[Vela](https://github.com/go-vela) - Target Co's official pipeline automation framework. 
+
+<img width="48" align=middle src="https://avatars.githubusercontent.com/u/55509865?s=200&v=4"/>
 
 ### Unity Build Factory
 [Unity Build Factory](https://github.com/plyr4/unity-factory) - a hobby project that builds multi-architecture Unity projects and deploys them to GitHub Pages through GitHub Actions workflow dispatches. It builds my games, but it's a work in progress.
